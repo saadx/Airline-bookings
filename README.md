@@ -1,2 +1,2 @@
 # Airline-bookings
-Displays options to reserve or cancel a seat, display a seating chart with several options. Takes more input if needed, does the processing and displays the results.
+The user is presented with options to reserve a seat, cancel a seat and to display the current status of the seats on the plane. The user is given the option to continue processing requests until he/she chooses to quit.
